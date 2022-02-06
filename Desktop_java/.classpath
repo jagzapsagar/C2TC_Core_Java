@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Smart programing/|java sample programs/StaticKeyword/|java sample programs/abstract/|java sample programs/interface/|threaddd prog/" kind="src" path=""/>
+	<classpathentry kind="src" path="java sample programs/abstract"/>
+	<classpathentry kind="src" path="java sample programs/interface"/>
+	<classpathentry kind="src" path="java sample programs/StaticKeyword"/>
+	<classpathentry kind="src" path="Smart programing"/>
+	<classpathentry kind="src" path="threaddd prog"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
